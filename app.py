@@ -6,7 +6,7 @@ st.set_page_config(page_title="Saikat Bhowmik | Portfolio", page_icon="📊", la
 
 # ----------------- Sidebar -----------------
 with st.sidebar:
-    st.image("sb.JPG", width=200)  # Make sure 'profile.jpg' is in your directory
+    st.image("sb.jpg", width=200)  # Make sure 'profile.jpg' is in your directory
     st.title("Saikat Bhowmik")
     st.write("📍 Kolkata, India")
     st.write("📧 saikat.bhowmik24-26@bibs.co.in")
